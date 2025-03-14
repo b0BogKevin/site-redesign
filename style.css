@@ -179,6 +179,15 @@ footer a:hover {
     height: 300px;
 }
 
+#content img{
+    border-radius: 10px;
+    height: 200px;
+    margin-right: 20px;
+}
+
+.ref-images{
+    display: flex;
+}
 
 @media (max-width: 768px) {
     nav ul {
