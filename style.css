@@ -212,3 +212,12 @@ footer a:hover {
         height: 350px;
     }
 }
+
+.link-list{
+    display: flex;
+}
+.link-list div{
+    margin-left: 20px;
+    margin-right: 20px;
+    
+}
